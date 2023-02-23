@@ -1,0 +1,1 @@
+This is a web portfolio based on a design created using the Midjourney AI. See more: https://midjourney.com/
